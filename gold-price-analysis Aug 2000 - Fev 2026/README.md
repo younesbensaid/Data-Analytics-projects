@@ -31,16 +31,22 @@ The project files are organized as follows:
 gold-price-analysis Aug 2000 - Fev 2026/
 ├── Dataset/
 │ └── gold_prices_aug_2000_2026_feb.csv # Original dataset from Kaggle
+
 ├── notebook/
 │ └── XAUUSD_Analysis.ipynb # Jupyter notebook with all analysis
+
 ├── images/
 │ └── *.png # Charts and visualizations generated
+
 ├── pdf/
 │ └── XAUUSD_Analysis.pdf # Full project report
 └── 
 ├── requirements.txt # Python dependencies
+
 ├── LICENSE # Project license
+
 ├── .gitignore # Git ignore rules
+
 └── README.md # Project documentation
 
 ---
