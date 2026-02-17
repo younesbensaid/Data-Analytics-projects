@@ -40,7 +40,7 @@ gold-price-analysis Aug 2000 - Fev 2026/
 
 ├── pdf/
 │ └── XAUUSD_Analysis.pdf # Full project report
-└── 
+
 ├── requirements.txt # Python dependencies
 
 ├── LICENSE # Project license
