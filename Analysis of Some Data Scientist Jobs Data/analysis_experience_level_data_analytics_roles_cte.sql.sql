@@ -4,10 +4,10 @@ File: analysis_experience_level_data_analytics_roles_cte.sql
 
 NOTE:
 The experience levels distribution presented in this analysis reflects
-only the data available in the current dataset I am working with. This 
-distribution is not intended to be an accurate or comprehensive 
-representation of the actual job market or the true distribution of 
-experience levels in analytics roles in general.
+only the data available in the current dataset I am working with. This
+distribution is not necessarily an accurate or comprehensive
+representation of the actual labor market or the true distribution of
+experience levels in analytics roles in general. 
 
 
 Description:
