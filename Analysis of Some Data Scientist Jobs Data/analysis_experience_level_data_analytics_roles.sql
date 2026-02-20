@@ -68,10 +68,9 @@ SELECT
     experience_level,
     COUNT(*) AS total_positions,
     ROUND(AVG(salary_in_usd)::numeric, 2) AS average_salary,
-    ROUND(
-        PERCENTILE_CONT(0.5) WITHIN GROUP (ORDER BY salary_in_usd)::numeric,
-        2
-    ) AS median_salary
+    ROUND(PERCENTILE_CONT(0.5) WITHIN GROUP (ORDER BY salary_in_usd)::numeric, 2) AS median_salary,
+    ROUND(MAX(salary_in_usd)::numeric, 2) AS maximum_salary,
+    ROUND(MIN(salary_in_usd)::numeric, 2) AS minimum_salary
 FROM analytics_roles
 GROUP BY job_title, experience_level
 ORDER BY job_title, experience_level;
@@ -116,7 +115,9 @@ SELECT
     COUNT(*) AS total_positions,
     ROUND(AVG(salary_in_usd)::numeric, 2) AS average_salary,
     ROUND(PERCENTILE_CONT(0.5) WITHIN GROUP (ORDER BY salary_in_usd)::numeric,2
-    ) AS median_salary
+    ) AS median_salary,
+    MAX(salary_in_usd) AS maximum_salary,
+    MIN(salary_in_usd) AS minimum_salary
 FROM analytics_roles
 GROUP BY experience_level
 ORDER BY median_salary DESC;
