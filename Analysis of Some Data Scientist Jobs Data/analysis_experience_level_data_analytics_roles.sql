@@ -11,20 +11,25 @@ experience levels in analytics roles in general.
 
 
 Description:
-This query analyzes the distribution of experience levels
-for selected Data Analysis and Business Intelligence roles.
+This query groups data analytics roles by job_title and
+experience_level to calculate the number of positions and summarize  
+salary details for each group. It also aggregates data by 
+experience_level to show total positions and salary statistics per level.
 
 Purpose:
-To evaluate how experience levels (EN, MI, SE, EX)
-are distributed across the data we are working in
+To provide a clear breakdown of how roles are distributed across 
+experience levels, along with salary summaries for each job title–
+experience combination and for each experience level overall.
 
-SELECTING ALL experience levels JOBS RELATED TO data analytics roles
-and grouping by (job_title + experience_level)
-and counting the total position for each group
+Steps:
+grouping by (job_title + experience_level)
+and counting the total position for each group,
+and the salaries details
 AND EXPORT IT TO CSV IN 
 Dataset/exprience-levels-related-to-data-analytics-roles-by-group.csv
 
-AND THEN calculating the total positions for each exprience level
+AND THEN calculating the total positions for each exprience level,
+and the salaries details for each experince level
 AND EXPORT IT TO CSV FILE IN
 Dataset/total_positions-for-each-experience-level.csv
 */
