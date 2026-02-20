@@ -32,7 +32,8 @@ Dataset/total_positions-for-each-experience-level.csv
 WITH analytics_roles AS (
     SELECT
         job_title,
-        experience_level
+        experience_level,
+        salary_in_usd
     FROM some_data_science_jobs_data
     WHERE job_title IN (
         'Analytics Engineer',
@@ -65,7 +66,12 @@ WITH analytics_roles AS (
 SELECT
     job_title,
     experience_level,
-    COUNT(*) AS total_positions
+    COUNT(*) AS total_positions,
+    ROUND(AVG(salary_in_usd)::numeric, 2) AS average_salary,
+    ROUND(
+        PERCENTILE_CONT(0.5) WITHIN GROUP (ORDER BY salary_in_usd)::numeric,
+        2
+    ) AS median_salary
 FROM analytics_roles
 GROUP BY job_title, experience_level
 ORDER BY job_title, experience_level;
@@ -74,7 +80,8 @@ ORDER BY job_title, experience_level;
 
 WITH analytics_roles AS (
     SELECT
-        experience_level
+        experience_level,
+        salary_in_usd
     FROM some_data_science_jobs_data
     WHERE job_title IN (
         'Analytics Engineer',
@@ -106,7 +113,10 @@ WITH analytics_roles AS (
 
 SELECT
     experience_level,
-    COUNT(*) AS total_positions
+    COUNT(*) AS total_positions,
+    ROUND(AVG(salary_in_usd)::numeric, 2) AS average_salary,
+    ROUND(PERCENTILE_CONT(0.5) WITHIN GROUP (ORDER BY salary_in_usd)::numeric,2
+    ) AS median_salary
 FROM analytics_roles
 GROUP BY experience_level
-ORDER BY total_positions DESC;
+ORDER BY median_salary DESC;
