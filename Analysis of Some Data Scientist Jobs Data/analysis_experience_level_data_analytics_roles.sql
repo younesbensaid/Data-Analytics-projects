@@ -17,8 +17,8 @@ salary details for each group. It also aggregates data by
 experience_level to show total positions and salary statistics per level.
 
 Purpose:
-To provide a clear breakdown of how roles are distributed across 
-experience levels, along with salary summaries for each job title–
+To provide a breakdown of how roles are distributed across 
+experience levels in the data, along with salary summaries for each job title–
 experience combination and for each experience level overall.
 
 Steps:
