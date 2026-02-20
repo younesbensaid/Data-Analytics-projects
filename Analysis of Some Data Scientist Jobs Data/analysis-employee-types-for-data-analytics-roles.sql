@@ -32,7 +32,8 @@ Dataset/total_positions-for-each-employee-type.csv
 WITH analytics_roles AS (
     SELECT
         job_title,
-        employment_type
+        employment_type,
+        salary_in_usd
     FROM some_data_science_jobs_data
     WHERE job_title IN (
         'Analytics Engineer',
@@ -65,7 +66,11 @@ WITH analytics_roles AS (
 SELECT
     job_title,
     employment_type,
-    COUNT(*) AS total_positions
+    COUNT(*) AS total_positions,
+    ROUND(AVG(salary_in_usd)::numeric, 2) AS average_salary,
+    ROUND(PERCENTILE_CONT(0.5) WITHIN GROUP (ORDER BY salary_in_usd)::numeric, 2) AS median_salary,
+    ROUND(MAX(salary_in_usd)::numeric, 2) AS maximum_salary,
+    ROUND(MIN(salary_in_usd)::numeric, 2) AS minimum_salary
 FROM analytics_roles
 GROUP BY job_title, employment_type
 ORDER BY job_title, employment_type;
@@ -74,7 +79,8 @@ ORDER BY job_title, employment_type;
 
 WITH analytics_roles AS (
     SELECT
-        employment_type
+        employment_type,
+        salary_in_usd
     FROM some_data_science_jobs_data
     WHERE job_title IN (
         'Analytics Engineer',
@@ -106,7 +112,11 @@ WITH analytics_roles AS (
 
 SELECT
     employment_type,
-    COUNT(*) AS total_positions
+    COUNT(*) AS total_positions,
+    ROUND(AVG(salary_in_usd)::numeric, 2) AS average_salary,
+    ROUND(PERCENTILE_CONT(0.5) WITHIN GROUP (ORDER BY salary_in_usd)::numeric, 2) AS median_salary,
+    ROUND(MAX(salary_in_usd)::numeric, 2) AS maximum_salary,
+    ROUND(MIN(salary_in_usd)::numeric, 2) AS minimum_salary
 FROM analytics_roles
 GROUP BY employment_type
 ORDER BY total_positions DESC;
