@@ -1,272 +1,31 @@
-[
-  {
-    "job_title": "Analytics Engineer",
-    "employment_type": "CT",
-    "total_positions": "1",
-    "average_salary": "7500.00",
-    "median_salary": "7500.00",
-    "maximum_salary": "7500.00",
-    "minimum_salary": "7500.00"
-  },
-  {
-    "job_title": "Analytics Engineer",
-    "employment_type": "FT",
-    "total_positions": "102",
-    "average_salary": "153788.91",
-    "median_salary": "146930.00",
-    "maximum_salary": "289800.00",
-    "minimum_salary": "48000.00"
-  },
-  {
-    "job_title": "BI Analyst",
-    "employment_type": "FT",
-    "total_positions": "8",
-    "average_salary": "116500.00",
-    "median_salary": "117500.00",
-    "maximum_salary": "200000.00",
-    "minimum_salary": "48000.00"
-  },
-  {
-    "job_title": "BI Analyst",
-    "employment_type": "PT",
-    "total_positions": "1",
-    "average_salary": "12000.00",
-    "median_salary": "12000.00",
-    "maximum_salary": "12000.00",
-    "minimum_salary": "12000.00"
-  },
-  {
-    "job_title": "BI Data Analyst",
-    "employment_type": "FT",
-    "total_positions": "15",
-    "average_salary": "60440.13",
-    "median_salary": "55000.00",
-    "maximum_salary": "150000.00",
-    "minimum_salary": "6270.00"
-  },
-  {
-    "job_title": "BI Developer",
-    "employment_type": "FT",
-    "total_positions": "13",
-    "average_salary": "129846.15",
-    "median_salary": "130000.00",
-    "maximum_salary": "197000.00",
-    "minimum_salary": "100000.00"
-  },
-  {
-    "job_title": "Business Data Analyst",
-    "employment_type": "CT",
-    "total_positions": "1",
-    "average_salary": "100000.00",
-    "median_salary": "100000.00",
-    "maximum_salary": "100000.00",
-    "minimum_salary": "100000.00"
-  },
-  {
-    "job_title": "Business Data Analyst",
-    "employment_type": "FT",
-    "total_positions": "14",
-    "average_salary": "63641.50",
-    "median_salary": "54551.00",
-    "maximum_salary": "150000.00",
-    "minimum_salary": "9289.00"
-  },
-  {
-    "job_title": "Business Intelligence Engineer",
-    "employment_type": "FT",
-    "total_positions": "4",
-    "average_salary": "174150.00",
-    "median_salary": "171150.00",
-    "maximum_salary": "225000.00",
-    "minimum_salary": "129300.00"
-  },
-  {
-    "job_title": "Compliance Data Analyst",
-    "employment_type": "FT",
-    "total_positions": "1",
-    "average_salary": "30000.00",
-    "median_salary": "30000.00",
-    "maximum_salary": "30000.00",
-    "minimum_salary": "30000.00"
-  },
-  {
-    "job_title": "Data Analyst",
-    "employment_type": "CT",
-    "total_positions": "1",
-    "average_salary": "90000.00",
-    "median_salary": "90000.00",
-    "maximum_salary": "90000.00",
-    "minimum_salary": "90000.00"
-  },
-  {
-    "job_title": "Data Analyst",
-    "employment_type": "FT",
-    "total_positions": "606",
-    "average_salary": "109292.50",
-    "median_salary": "106020.00",
-    "maximum_salary": "430967.00",
-    "minimum_salary": "5723.00"
-  },
-  {
-    "job_title": "Data Analyst",
-    "employment_type": "PT",
-    "total_positions": "5",
-    "average_salary": "42614.60",
-    "median_salary": "25216.00",
-    "maximum_salary": "125404.00",
-    "minimum_salary": "10354.00"
-  },
-  {
-    "job_title": "Data Analytics Consultant",
-    "employment_type": "FL",
-    "total_positions": "1",
-    "average_salary": "50000.00",
-    "median_salary": "50000.00",
-    "maximum_salary": "50000.00",
-    "minimum_salary": "50000.00"
-  },
-  {
-    "job_title": "Data Analytics Consultant",
-    "employment_type": "FT",
-    "total_positions": "1",
-    "average_salary": "113000.00",
-    "median_salary": "113000.00",
-    "maximum_salary": "113000.00",
-    "minimum_salary": "113000.00"
-  },
-  {
-    "job_title": "Data Analytics Engineer",
-    "employment_type": "FT",
-    "total_positions": "6",
-    "average_salary": "67866.17",
-    "median_salary": "64598.50",
-    "maximum_salary": "135000.00",
-    "minimum_salary": "13000.00"
-  },
-  {
-    "job_title": "Data Analytics Lead",
-    "employment_type": "FT",
-    "total_positions": "2",
-    "average_salary": "211254.50",
-    "median_salary": "211254.50",
-    "maximum_salary": "405000.00",
-    "minimum_salary": "17509.00"
-  },
-  {
-    "job_title": "Data Analytics Manager",
-    "employment_type": "FT",
-    "total_positions": "22",
-    "average_salary": "141879.09",
-    "median_salary": "140000.00",
-    "maximum_salary": "204500.00",
-    "minimum_salary": "105400.00"
-  },
-  {
-    "job_title": "Data Analytics Specialist",
-    "employment_type": "FT",
-    "total_positions": "2",
-    "average_salary": "95000.00",
-    "median_salary": "95000.00",
-    "maximum_salary": "105000.00",
-    "minimum_salary": "85000.00"
-  },
-  {
-    "job_title": "Data Operations Analyst",
-    "employment_type": "FT",
-    "total_positions": "4",
-    "average_salary": "90562.50",
-    "median_salary": "86625.00",
-    "maximum_salary": "123000.00",
-    "minimum_salary": "66000.00"
-  },
-  {
-    "job_title": "Data Quality Analyst",
-    "employment_type": "FT",
-    "total_positions": "7",
-    "average_salary": "85311.43",
-    "median_salary": "80000.00",
-    "maximum_salary": "100000.00",
-    "minimum_salary": "64980.00"
-  },
-  {
-    "job_title": "Finance Data Analyst",
-    "employment_type": "FT",
-    "total_positions": "1",
-    "average_salary": "61896.00",
-    "median_salary": "61896.00",
-    "maximum_salary": "61896.00",
-    "minimum_salary": "61896.00"
-  },
-  {
-    "job_title": "Financial Data Analyst",
-    "employment_type": "FT",
-    "total_positions": "3",
-    "average_salary": "101666.67",
-    "median_salary": "100000.00",
-    "maximum_salary": "130000.00",
-    "minimum_salary": "75000.00"
-  },
-  {
-    "job_title": "Insight Analyst",
-    "employment_type": "FT",
-    "total_positions": "2",
-    "average_salary": "46786.00",
-    "median_salary": "46786.00",
-    "maximum_salary": "51039.00",
-    "minimum_salary": "42533.00"
-  },
-  {
-    "job_title": "Lead Data Analyst",
-    "employment_type": "FT",
-    "total_positions": "5",
-    "average_salary": "72569.40",
-    "median_salary": "68000.00",
-    "maximum_salary": "170000.00",
-    "minimum_salary": "18238.00"
-  },
-  {
-    "job_title": "Marketing Data Analyst",
-    "employment_type": "FT",
-    "total_positions": "2",
-    "average_salary": "144327.00",
-    "median_salary": "144327.00",
-    "maximum_salary": "200000.00",
-    "minimum_salary": "88654.00"
-  },
-  {
-    "job_title": "Power BI Developer",
-    "employment_type": "FT",
-    "total_positions": "1",
-    "average_salary": "5409.00",
-    "median_salary": "5409.00",
-    "maximum_salary": "5409.00",
-    "minimum_salary": "5409.00"
-  },
-  {
-    "job_title": "Principal Data Analyst",
-    "employment_type": "FT",
-    "total_positions": "2",
-    "average_salary": "122500.00",
-    "median_salary": "122500.00",
-    "maximum_salary": "170000.00",
-    "minimum_salary": "75000.00"
-  },
-  {
-    "job_title": "Product Data Analyst",
-    "employment_type": "FT",
-    "total_positions": "5",
-    "average_salary": "56497.20",
-    "median_salary": "20000.00",
-    "maximum_salary": "140000.00",
-    "minimum_salary": "6072.00"
-  },
-  {
-    "job_title": "Staff Data Analyst",
-    "employment_type": "FT",
-    "total_positions": "1",
-    "average_salary": "15000.00",
-    "median_salary": "15000.00",
-    "maximum_salary": "15000.00",
-    "minimum_salary": "15000.00"
-  }
-]
+"job_title","employment_type","total_positions","average_salary","median_salary","maximum_salary","minimum_salary"
+"Analytics Engineer","CT","1","7500.00","7500.00","7500.00","7500.00"
+"Analytics Engineer","FT","102","153788.91","146930.00","289800.00","48000.00"
+"BI Analyst","FT","8","116500.00","117500.00","200000.00","48000.00"
+"BI Analyst","PT","1","12000.00","12000.00","12000.00","12000.00"
+"BI Data Analyst","FT","15","60440.13","55000.00","150000.00","6270.00"
+"BI Developer","FT","13","129846.15","130000.00","197000.00","100000.00"
+"Business Data Analyst","CT","1","100000.00","100000.00","100000.00","100000.00"
+"Business Data Analyst","FT","14","63641.50","54551.00","150000.00","9289.00"
+"Business Intelligence Engineer","FT","4","174150.00","171150.00","225000.00","129300.00"
+"Compliance Data Analyst","FT","1","30000.00","30000.00","30000.00","30000.00"
+"Data Analyst","CT","1","90000.00","90000.00","90000.00","90000.00"
+"Data Analyst","FT","606","109292.50","106020.00","430967.00","5723.00"
+"Data Analyst","PT","5","42614.60","25216.00","125404.00","10354.00"
+"Data Analytics Consultant","FL","1","50000.00","50000.00","50000.00","50000.00"
+"Data Analytics Consultant","FT","1","113000.00","113000.00","113000.00","113000.00"
+"Data Analytics Engineer","FT","6","67866.17","64598.50","135000.00","13000.00"
+"Data Analytics Lead","FT","2","211254.50","211254.50","405000.00","17509.00"
+"Data Analytics Manager","FT","22","141879.09","140000.00","204500.00","105400.00"
+"Data Analytics Specialist","FT","2","95000.00","95000.00","105000.00","85000.00"
+"Data Operations Analyst","FT","4","90562.50","86625.00","123000.00","66000.00"
+"Data Quality Analyst","FT","7","85311.43","80000.00","100000.00","64980.00"
+"Finance Data Analyst","FT","1","61896.00","61896.00","61896.00","61896.00"
+"Financial Data Analyst","FT","3","101666.67","100000.00","130000.00","75000.00"
+"Insight Analyst","FT","2","46786.00","46786.00","51039.00","42533.00"
+"Lead Data Analyst","FT","5","72569.40","68000.00","170000.00","18238.00"
+"Marketing Data Analyst","FT","2","144327.00","144327.00","200000.00","88654.00"
+"Power BI Developer","FT","1","5409.00","5409.00","5409.00","5409.00"
+"Principal Data Analyst","FT","2","122500.00","122500.00","170000.00","75000.00"
+"Product Data Analyst","FT","5","56497.20","20000.00","140000.00","6072.00"
+"Staff Data Analyst","FT","1","15000.00","15000.00","15000.00","15000.00"
