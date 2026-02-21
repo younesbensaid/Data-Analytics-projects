@@ -1,14 +1,3 @@
-# Analysis of some data scientist jobs data
-
-## Project Overview
-
-
-> **Note:** The results presented in this analysis are based solely on the dataset used in this project and do not necessarily reflect real-world trends.
-
-This project focuses on analyzing **Data Scientist jobs** using data from Kaggle.
-
-## Project Workflow
-
 # Analysis of Some Data Scientist Jobs Data
 
 ## Project Overview
