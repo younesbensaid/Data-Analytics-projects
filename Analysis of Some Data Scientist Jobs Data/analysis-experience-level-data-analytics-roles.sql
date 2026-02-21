@@ -11,7 +11,7 @@ experience levels in analytics roles in general.
 
 
 Description:
-This query groups data analytics roles by job_title and
+This queries group data analytics roles by job_title and
 experience_level to calculate the number of positions and summarize  
 salary details for each group. It also aggregates data by 
 experience_level to show total positions and salary statistics per level.
