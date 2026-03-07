@@ -1,0 +1,520 @@
+location_id	country	region	city
+19	Austria	Europe	Dornbirn
+20	Austria	Europe	Graz
+21	Austria	Europe	Innsbruck
+22	Austria	Europe	Klagenfurt
+23	Austria	Europe	Linz
+24	Austria	Europe	Saint Pölten
+25	Austria	Europe	Salzburg
+26	Austria	Europe	Vienna
+27	Austria	Europe	Villach
+28	Austria	Europe	Wels
+37	Belgium	Europe	Aalst
+38	Belgium	Europe	Antwerp
+39	Belgium	Europe	Bruges
+40	Belgium	Europe	Brussels
+41	Belgium	Europe	Ghent
+42	Belgium	Europe	Leuven
+43	Belgium	Europe	Liège
+44	Belgium	Europe	Mechelen
+45	Belgium	Europe	Mons
+46	Belgium	Europe	Namur
+115	Denmark	Europe	Aalborg
+116	Denmark	Europe	Aarhus
+117	Denmark	Europe	Copenhagen
+118	Denmark	Europe	Esbjerg
+119	Denmark	Europe	Horsens
+120	Denmark	Europe	Kolding
+121	Denmark	Europe	Odense
+122	Denmark	Europe	Randers
+123	Denmark	Europe	Roskilde
+124	Denmark	Europe	Vejle
+135	Finland	Europe	Espoo
+136	Finland	Europe	Helsinki
+137	Finland	Europe	Jyväskylä
+138	Finland	Europe	Kouvola
+139	Finland	Europe	Kuopio
+140	Finland	Europe	Lahti
+141	Finland	Europe	Oulu
+142	Finland	Europe	Tampere
+143	Finland	Europe	Turku
+144	Finland	Europe	Vantaa
+145	France	Europe	Bordeaux
+146	France	Europe	Dijon
+147	France	Europe	Grenoble
+148	France	Europe	Le Havre
+149	France	Europe	Lille
+150	France	Europe	Lyon
+151	France	Europe	Marseille
+152	France	Europe	Montpellier
+153	France	Europe	Nantes
+154	France	Europe	Nice
+155	France	Europe	Paris
+156	France	Europe	Reims
+157	France	Europe	Rennes
+158	France	Europe	Strasbourg
+159	France	Europe	Toulouse
+160	Germany	Europe	Berlin
+161	Germany	Europe	Bochum
+162	Germany	Europe	Bremen
+163	Germany	Europe	Cologne
+164	Germany	Europe	Dortmund
+165	Germany	Europe	Dresden
+166	Germany	Europe	Düsseldorf
+167	Germany	Europe	Frankfurt
+168	Germany	Europe	Hamburg
+169	Germany	Europe	Hanover
+170	Germany	Europe	Leipzig
+171	Germany	Europe	Munich
+172	Germany	Europe	Nuremberg
+173	Germany	Europe	Stuttgart
+174	Germany	Europe	Wuppertal
+218	Ireland	Europe	Bray
+219	Ireland	Europe	Cork
+220	Ireland	Europe	Drogheda
+221	Ireland	Europe	Dublin
+222	Ireland	Europe	Dundalk
+223	Ireland	Europe	Ennis
+224	Ireland	Europe	Galway
+225	Ireland	Europe	Limerick
+226	Ireland	Europe	Navan
+227	Ireland	Europe	Waterford
+228	Italy	Europe	Bari
+229	Italy	Europe	Bologna
+230	Italy	Europe	Catania
+231	Italy	Europe	Florence
+232	Italy	Europe	Genoa
+233	Italy	Europe	Messina
+234	Italy	Europe	Milan
+235	Italy	Europe	Naples
+236	Italy	Europe	Padua
+237	Italy	Europe	Palermo
+238	Italy	Europe	Rome
+239	Italy	Europe	Trieste
+240	Italy	Europe	Turin
+241	Italy	Europe	Venice
+242	Italy	Europe	Verona
+284	Netherlands	Europe	Almere
+285	Netherlands	Europe	Amsterdam
+286	Netherlands	Europe	Breda
+287	Netherlands	Europe	Eindhoven
+288	Netherlands	Europe	Groningen
+289	Netherlands	Europe	Nijmegen
+290	Netherlands	Europe	Rotterdam
+291	Netherlands	Europe	The Hague
+292	Netherlands	Europe	Tilburg
+293	Netherlands	Europe	Utrecht
+312	Norway	Europe	Bergen
+313	Norway	Europe	Drammen
+314	Norway	Europe	Fredrikstad
+315	Norway	Europe	Kristiansand
+316	Norway	Europe	Oslo
+317	Norway	Europe	Sandnes
+318	Norway	Europe	Sarpsborg
+319	Norway	Europe	Stavanger
+320	Norway	Europe	Tromsø
+321	Norway	Europe	Trondheim
+342	Poland	Europe	Bydgoszcz
+343	Poland	Europe	Gdansk
+344	Poland	Europe	Katowice
+345	Poland	Europe	Krakow
+346	Poland	Europe	Lodz
+347	Poland	Europe	Lublin
+348	Poland	Europe	Poznan
+349	Poland	Europe	Szczecin
+350	Poland	Europe	Warsaw
+351	Poland	Europe	Wroclaw
+352	Portugal	Europe	Almada
+353	Portugal	Europe	Amadora
+354	Portugal	Europe	Aveiro
+355	Portugal	Europe	Braga
+356	Portugal	Europe	Coimbra
+357	Portugal	Europe	Funchal
+358	Portugal	Europe	Guimarães
+359	Portugal	Europe	Lisbon
+360	Portugal	Europe	Porto
+361	Portugal	Europe	Setúbal
+401	Spain	Europe	Alicante
+402	Spain	Europe	Barcelona
+403	Spain	Europe	Bilbao
+404	Spain	Europe	Córdoba
+405	Spain	Europe	Gijón
+406	Spain	Europe	Las Palmas
+407	Spain	Europe	Madrid
+408	Spain	Europe	Murcia
+409	Spain	Europe	Málaga
+410	Spain	Europe	Palma
+411	Spain	Europe	Seville
+412	Spain	Europe	Valencia
+413	Spain	Europe	Valladolid
+414	Spain	Europe	Vigo
+415	Spain	Europe	Zaragoza
+416	Sweden	Europe	Gothenburg
+417	Sweden	Europe	Helsingborg
+418	Sweden	Europe	Jönköping
+419	Sweden	Europe	Linköping
+420	Sweden	Europe	Malmö
+421	Sweden	Europe	Norrköping
+422	Sweden	Europe	Stockholm
+423	Sweden	Europe	Uppsala
+424	Sweden	Europe	Västerås
+425	Sweden	Europe	Örebro
+426	Switzerland	Europe	Basel
+427	Switzerland	Europe	Bern
+428	Switzerland	Europe	Biel
+429	Switzerland	Europe	Geneva
+430	Switzerland	Europe	Lausanne
+431	Switzerland	Europe	Lucerne
+432	Switzerland	Europe	Lugano
+433	Switzerland	Europe	St. Gallen
+434	Switzerland	Europe	Winterthur
+435	Switzerland	Europe	Zurich
+472	United Kingdom	Europe	Birmingham
+473	United Kingdom	Europe	Bristol
+474	United Kingdom	Europe	Cardiff
+475	United Kingdom	Europe	Edinburgh
+476	United Kingdom	Europe	Glasgow
+477	United Kingdom	Europe	Leeds
+478	United Kingdom	Europe	Leicester
+479	United Kingdom	Europe	Liverpool
+480	United Kingdom	Europe	London
+481	United Kingdom	Europe	Manchester
+482	United Kingdom	Europe	Newcastle
+483	United Kingdom	Europe	Nottingham
+484	United Kingdom	Europe	Oxford
+485	United Kingdom	Europe	Sheffield
+486	United Kingdom	Europe	Southampton
+29	Bangladesh	Asia	Chittagong
+30	Bangladesh	Asia	Comilla
+31	Bangladesh	Asia	Dhaka
+32	Bangladesh	Asia	Khulna
+33	Bangladesh	Asia	Mymensingh
+34	Bangladesh	Asia	Narayanganj
+35	Bangladesh	Asia	Rajshahi
+36	Bangladesh	Asia	Sylhet
+85	China	Asia	Beijing
+86	China	Asia	Changsha
+87	China	Asia	Chengdu
+88	China	Asia	Chongqing
+89	China	Asia	Dongguan
+90	China	Asia	Foshan
+91	China	Asia	Guangzhou
+92	China	Asia	Hangzhou
+93	China	Asia	Harbin
+94	China	Asia	Kunming
+95	China	Asia	Nanjing
+96	China	Asia	Qingdao
+97	China	Asia	Shanghai
+98	China	Asia	Shenyang
+99	China	Asia	Shenzhen
+100	China	Asia	Suzhou
+101	China	Asia	Tianjin
+102	China	Asia	Wuhan
+103	China	Asia	Xi'an
+104	China	Asia	Zhengzhou
+175	Hong Kong	Asia	Central
+176	Hong Kong	Asia	Kowloon
+177	Hong Kong	Asia	Mong Kok
+178	Hong Kong	Asia	Sha Tin
+179	Hong Kong	Asia	Tsuen Wan
+180	Hong Kong	Asia	Tuen Mun
+181	Hong Kong	Asia	Wan Chai
+182	Hong Kong	Asia	Yuen Long
+183	India	Asia	Agra
+184	India	Asia	Ahmedabad
+185	India	Asia	Bangalore
+186	India	Asia	Bhopal
+187	India	Asia	Chennai
+188	India	Asia	Delhi
+189	India	Asia	Faridabad
+190	India	Asia	Hyderabad
+191	India	Asia	Indore
+192	India	Asia	Jaipur
+193	India	Asia	Kanpur
+194	India	Asia	Kolkata
+195	India	Asia	Lucknow
+196	India	Asia	Ludhiana
+197	India	Asia	Meerut
+198	India	Asia	Mumbai
+199	India	Asia	Nagpur
+200	India	Asia	Nashik
+201	India	Asia	Patna
+202	India	Asia	Pune
+203	India	Asia	Rajkot
+204	India	Asia	Surat
+205	India	Asia	Thane
+206	India	Asia	Vadodara
+207	India	Asia	Visakhapatnam
+208	Indonesia	Asia	Bandung
+209	Indonesia	Asia	Bekasi
+210	Indonesia	Asia	Depok
+211	Indonesia	Asia	Jakarta
+212	Indonesia	Asia	Makassar
+213	Indonesia	Asia	Medan
+214	Indonesia	Asia	Palembang
+215	Indonesia	Asia	Semarang
+216	Indonesia	Asia	Surabaya
+217	Indonesia	Asia	Tangerang
+243	Japan	Asia	Fukuoka
+244	Japan	Asia	Hiroshima
+245	Japan	Asia	Kawasaki
+246	Japan	Asia	Kitakyushu
+247	Japan	Asia	Kobe
+248	Japan	Asia	Kyoto
+249	Japan	Asia	Nagoya
+250	Japan	Asia	Niigata
+251	Japan	Asia	Osaka
+252	Japan	Asia	Sagamihara
+253	Japan	Asia	Sakai
+254	Japan	Asia	Sapporo
+255	Japan	Asia	Sendai
+256	Japan	Asia	Tokyo
+257	Japan	Asia	Yokohama
+266	Malaysia	Asia	George Town
+267	Malaysia	Asia	Ipoh
+268	Malaysia	Asia	Johor Bahru
+269	Malaysia	Asia	Kota Kinabalu
+270	Malaysia	Asia	Kuala Lumpur
+271	Malaysia	Asia	Petaling Jaya
+272	Malaysia	Asia	Shah Alam
+273	Malaysia	Asia	Subang Jaya
+322	Pakistan	Asia	Faisalabad
+323	Pakistan	Asia	Gujranwala
+324	Pakistan	Asia	Hyderabad
+325	Pakistan	Asia	Islamabad
+326	Pakistan	Asia	Karachi
+327	Pakistan	Asia	Lahore
+328	Pakistan	Asia	Multan
+329	Pakistan	Asia	Peshawar
+330	Pakistan	Asia	Quetta
+331	Pakistan	Asia	Rawalpindi
+332	Philippines	Asia	Antipolo
+333	Philippines	Asia	Cagayan de Oro
+334	Philippines	Asia	Caloocan
+335	Philippines	Asia	Cebu City
+336	Philippines	Asia	Davao
+337	Philippines	Asia	Manila
+338	Philippines	Asia	Pasig
+339	Philippines	Asia	Quezon City
+340	Philippines	Asia	Taguig
+341	Philippines	Asia	Zamboanga
+382	Singapore	Asia	Singapore
+391	South Korea	Asia	Busan
+392	South Korea	Asia	Changwon
+393	South Korea	Asia	Daegu
+394	South Korea	Asia	Daejeon
+395	South Korea	Asia	Goyang
+396	South Korea	Asia	Gwangju
+397	South Korea	Asia	Incheon
+398	South Korea	Asia	Seoul
+399	South Korea	Asia	Suwon
+400	South Korea	Asia	Ulsan
+436	Taiwan	Asia	Changhua
+437	Taiwan	Asia	Chiayi
+438	Taiwan	Asia	Hsinchu
+439	Taiwan	Asia	Kaohsiung
+440	Taiwan	Asia	Keelung
+441	Taiwan	Asia	New Taipei
+442	Taiwan	Asia	Taichung
+443	Taiwan	Asia	Tainan
+444	Taiwan	Asia	Taipei
+445	Taiwan	Asia	Taoyuan
+446	Thailand	Asia	Bangkok
+447	Thailand	Asia	Chiang Mai
+448	Thailand	Asia	Hat Yai
+449	Thailand	Asia	Nakhon Ratchasima
+450	Thailand	Asia	Nonthaburi
+451	Thailand	Asia	Pattaya
+452	Thailand	Asia	Rayong
+453	Thailand	Asia	Udon Thani
+512	Vietnam	Asia	Bien Hoa
+513	Vietnam	Asia	Can Tho
+514	Vietnam	Asia	Da Nang
+515	Vietnam	Asia	Haiphong
+516	Vietnam	Asia	Hanoi
+517	Vietnam	Asia	Ho Chi Minh City
+518	Vietnam	Asia	Hue
+519	Vietnam	Asia	Nha Trang
+1	Argentina	South America	Buenos Aires
+2	Argentina	South America	Córdoba
+3	Argentina	South America	La Plata
+4	Argentina	South America	Mar del Plata
+5	Argentina	South America	Mendoza
+6	Argentina	South America	Rosario
+7	Argentina	South America	Salta
+8	Argentina	South America	Tucumán
+9	Australia	Oceania	Adelaide
+10	Australia	Oceania	Brisbane
+11	Australia	Oceania	Canberra
+12	Australia	Oceania	Darwin
+13	Australia	Oceania	Gold Coast
+14	Australia	Oceania	Hobart
+15	Australia	Oceania	Melbourne
+16	Australia	Oceania	Newcastle
+17	Australia	Oceania	Perth
+18	Australia	Oceania	Sydney
+47	Brazil	South America	Belo Horizonte
+48	Brazil	South America	Belém
+49	Brazil	South America	Brasília
+50	Brazil	South America	Campinas
+51	Brazil	South America	Curitiba
+52	Brazil	South America	Fortaleza
+53	Brazil	South America	Goiânia
+54	Brazil	South America	Guarulhos
+55	Brazil	South America	Manaus
+56	Brazil	South America	Porto Alegre
+57	Brazil	South America	Recife
+58	Brazil	South America	Rio de Janeiro
+59	Brazil	South America	Salvador
+60	Brazil	South America	São Luís
+61	Brazil	South America	São Paulo
+62	Canada	North America	Calgary
+63	Canada	North America	Edmonton
+64	Canada	North America	Halifax
+65	Canada	North America	Hamilton
+66	Canada	North America	Kitchener
+67	Canada	North America	London
+68	Canada	North America	Montreal
+69	Canada	North America	Ottawa
+70	Canada	North America	Quebec City
+71	Canada	North America	Regina
+72	Canada	North America	Saskatoon
+73	Canada	North America	Toronto
+74	Canada	North America	Vancouver
+75	Canada	North America	Victoria
+76	Canada	North America	Winnipeg
+77	Chile	South America	Antofagasta
+78	Chile	South America	Arica
+79	Chile	South America	Concepción
+80	Chile	South America	La Serena
+81	Chile	South America	Rancagua
+82	Chile	South America	Santiago
+83	Chile	South America	Temuco
+84	Chile	South America	Valparaíso
+105	Colombia	South America	Barranquilla
+106	Colombia	South America	Bogotá
+107	Colombia	South America	Bucaramanga
+108	Colombia	South America	Cali
+109	Colombia	South America	Cartagena
+110	Colombia	South America	Cúcuta
+111	Colombia	South America	Ibagué
+112	Colombia	South America	Medellín
+113	Colombia	South America	Pereira
+114	Colombia	South America	Santa Marta
+125	Egypt	Africa	Alexandria
+126	Egypt	Africa	Asyut
+127	Egypt	Africa	Cairo
+128	Egypt	Africa	Giza
+129	Egypt	Africa	Luxor
+130	Egypt	Africa	Mansoura
+131	Egypt	Africa	Port Said
+132	Egypt	Africa	Shubra El Kheima
+133	Egypt	Africa	Suez
+134	Egypt	Africa	Tanta
+258	Kenya	Africa	Eldoret
+259	Kenya	Africa	Kisumu
+260	Kenya	Africa	Kitale
+261	Kenya	Africa	Malindi
+262	Kenya	Africa	Mombasa
+263	Kenya	Africa	Nairobi
+264	Kenya	Africa	Nakuru
+265	Kenya	Africa	Thika
+274	Mexico	North America	Ciudad Juárez
+275	Mexico	North America	Guadalajara
+276	Mexico	North America	León
+277	Mexico	North America	Mexico City
+278	Mexico	North America	Monterrey
+279	Mexico	North America	Mérida
+280	Mexico	North America	Puebla
+281	Mexico	North America	Querétaro
+282	Mexico	North America	Tijuana
+283	Mexico	North America	Zapopan
+294	New Zealand	Oceania	Auckland
+295	New Zealand	Oceania	Christchurch
+296	New Zealand	Oceania	Dunedin
+297	New Zealand	Oceania	Hamilton
+298	New Zealand	Oceania	Napier-Hastings
+299	New Zealand	Oceania	Palmerston North
+300	New Zealand	Oceania	Tauranga
+301	New Zealand	Oceania	Wellington
+302	Nigeria	Africa	Abuja
+303	Nigeria	Africa	Benin City
+304	Nigeria	Africa	Enugu
+305	Nigeria	Africa	Ibadan
+306	Nigeria	Africa	Ilorin
+307	Nigeria	Africa	Kaduna
+308	Nigeria	Africa	Kano
+309	Nigeria	Africa	Lagos
+310	Nigeria	Africa	Maiduguri
+311	Nigeria	Africa	Port Harcourt
+362	Russia	Europe/Asia	Chelyabinsk
+363	Russia	Europe/Asia	Kazan
+364	Russia	Europe/Asia	Moscow
+365	Russia	Europe/Asia	Nizhny Novgorod
+366	Russia	Europe/Asia	Novosibirsk
+367	Russia	Europe/Asia	Omsk
+368	Russia	Europe/Asia	Saint Petersburg
+369	Russia	Europe/Asia	Samara
+370	Russia	Europe/Asia	Ufa
+371	Russia	Europe/Asia	Yekaterinburg
+372	Saudi Arabia	Middle East	Buraidah
+373	Saudi Arabia	Middle East	Dammam
+374	Saudi Arabia	Middle East	Jeddah
+375	Saudi Arabia	Middle East	Jubail
+376	Saudi Arabia	Middle East	Khobar
+377	Saudi Arabia	Middle East	Mecca
+378	Saudi Arabia	Middle East	Medina
+379	Saudi Arabia	Middle East	Riyadh
+380	Saudi Arabia	Middle East	Tabuk
+381	Saudi Arabia	Middle East	Taif
+383	South Africa	Africa	Bloemfontein
+384	South Africa	Africa	Cape Town
+385	South Africa	Africa	Durban
+386	South Africa	Africa	East London
+387	South Africa	Africa	Johannesburg
+388	South Africa	Africa	Port Elizabeth
+389	South Africa	Africa	Pretoria
+390	South Africa	Africa	Soweto
+454	Turkey	Europe/Asia	Adana
+455	Turkey	Europe/Asia	Ankara
+456	Turkey	Europe/Asia	Antalya
+457	Turkey	Europe/Asia	Bursa
+458	Turkey	Europe/Asia	Gaziantep
+459	Turkey	Europe/Asia	Istanbul
+460	Turkey	Europe/Asia	Izmir
+461	Turkey	Europe/Asia	Kayseri
+462	Turkey	Europe/Asia	Konya
+463	Turkey	Europe/Asia	Mersin
+464	UAE	Middle East	Abu Dhabi
+465	UAE	Middle East	Ajman
+466	UAE	Middle East	Al Ain
+467	UAE	Middle East	Dubai
+468	UAE	Middle East	Fujairah
+469	UAE	Middle East	Ras Al Khaimah
+470	UAE	Middle East	Sharjah
+471	UAE	Middle East	Umm Al Quwain
+487	United States	North America	Austin
+488	United States	North America	Baltimore
+489	United States	North America	Boston
+490	United States	North America	Charlotte
+491	United States	North America	Chicago
+492	United States	North America	Columbus
+493	United States	North America	Dallas
+494	United States	North America	Denver
+495	United States	North America	Fort Worth
+496	United States	North America	Houston
+497	United States	North America	Jacksonville
+498	United States	North America	Las Vegas
+499	United States	North America	Los Angeles
+500	United States	North America	Louisville
+501	United States	North America	Memphis
+502	United States	North America	Nashville
+503	United States	North America	New York
+504	United States	North America	Philadelphia
+505	United States	North America	Phoenix
+506	United States	North America	Portland
+507	United States	North America	San Antonio
+508	United States	North America	San Diego
+509	United States	North America	San Francisco
+510	United States	North America	San Jose
+511	United States	North America	Seattle

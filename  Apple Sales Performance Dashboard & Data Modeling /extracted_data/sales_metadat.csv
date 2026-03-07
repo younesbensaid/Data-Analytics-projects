@@ -1,0 +1,43 @@
+sale_metadata_id	sales_channel	payment_method
+1	Third-Party Retailer	Cash
+2	Authorized Reseller	Debit Card
+3	Corporate / B2B	Credit Card
+4	Carrier Store	Credit Card
+5	Apple Store	Net Banking
+6	Apple Store	Cash
+7	Apple Store	Gift Card
+8	Carrier Store	Gift Card
+9	Authorized Reseller	Gift Card
+10	Third-Party Retailer	Apple Pay
+11	Authorized Reseller	Net Banking
+12	Authorized Reseller	Apple Pay
+13	Third-Party Retailer	EMI / Installment
+14	Apple Store	Apple Pay
+15	Corporate / B2B	EMI / Installment
+16	Apple Store	Credit Card
+17	Corporate / B2B	Cash
+18	Corporate / B2B	Debit Card
+19	Online (Apple.com)	Apple Pay
+20	Authorized Reseller	Credit Card
+21	Online (Apple.com)	Net Banking
+22	Third-Party Retailer	Debit Card
+23	Carrier Store	Debit Card
+24	Carrier Store	Cash
+25	Carrier Store	Apple Pay
+26	Third-Party Retailer	Net Banking
+27	Online (Apple.com)	Cash
+28	Corporate / B2B	Gift Card
+29	Online (Apple.com)	Gift Card
+30	Authorized Reseller	Cash
+31	Third-Party Retailer	Credit Card
+32	Online (Apple.com)	EMI / Installment
+33	Carrier Store	Net Banking
+34	Online (Apple.com)	Credit Card
+35	Corporate / B2B	Apple Pay
+36	Corporate / B2B	Net Banking
+37	Apple Store	Debit Card
+38	Third-Party Retailer	Gift Card
+39	Apple Store	EMI / Installment
+40	Authorized Reseller	EMI / Installment
+41	Carrier Store	EMI / Installment
+42	Online (Apple.com)	Debit Card

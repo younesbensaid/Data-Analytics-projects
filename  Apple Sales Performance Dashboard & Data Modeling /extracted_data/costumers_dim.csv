@@ -1,0 +1,141 @@
+customer_segment	customer_age_group	previous_device_os	costumer_id
+Government	45–54		1
+Business	45–54		2
+Individual	18–24		3
+Education	45–54		4
+Education	18–24		5
+Education	55+		6
+Government	35–44		7
+Education	25–34	iOS 16	8
+Government	18–24		9
+Business	25–34		10
+Individual	45–54		11
+Government	55+		12
+Education	35–44	New User	13
+Education	35–44	iOS 16	14
+Education	45–54	Other	15
+Business	55+		16
+Individual	55+		17
+Education	35–44		18
+Government	25–34		19
+Government	45–54	New User	20
+Individual	35–44		21
+Individual	25–34		22
+Business	45–54	iOS 15	23
+Business	55+	Other	24
+Education	18–24	iOS 16	25
+Education	18–24	Android	26
+Government	18–24	iOS 16	27
+Government	25–34	Android	28
+Education	35–44	iOS 17	29
+Business	25–34	iOS 15	30
+Individual	35–44	iOS 15	31
+Business	18–24		32
+Government	45–54	iOS 16	33
+Government	25–34	Other	34
+Individual	35–44	New User	35
+Business	25–34	Other	36
+Education	25–34		37
+Government	55+	Other	38
+Business	35–44	iOS 15	39
+Business	25–34	iOS 16	40
+Business	45–54	Other	41
+Government	45–54	Android	42
+Business	45–54	iOS 16	43
+Government	18–24	Android	44
+Education	25–34	iOS 17	45
+Business	45–54	New User	46
+Business	35–44		47
+Individual	18–24	New User	48
+Government	35–44	New User	49
+Business	35–44	iOS 16	50
+Government	35–44	Android	51
+Government	35–44	iOS 15	52
+Government	25–34	iOS 16	53
+Individual	45–54	iOS 16	54
+Business	25–34	New User	55
+Individual	55+	iOS 17	56
+Government	18–24	iOS 15	57
+Business	55+	New User	58
+Education	18–24	iOS 15	59
+Education	25–34	New User	60
+Business	18–24	iOS 16	61
+Education	35–44	iOS 15	62
+Individual	55+	Android	63
+Individual	25–34	iOS 17	64
+Education	55+	Android	65
+Individual	55+	Other	66
+Government	18–24	Other	67
+Education	55+	iOS 15	68
+Education	18–24	New User	69
+Individual	55+	iOS 15	70
+Education	45–54	iOS 15	71
+Government	35–44	Other	72
+Individual	35–44	iOS 17	73
+Government	18–24	New User	74
+Education	55+	iOS 16	75
+Government	45–54	Other	76
+Education	25–34	Android	77
+Individual	18–24	iOS 15	78
+Individual	25–34	iOS 16	79
+Business	35–44	Android	80
+Individual	55+	iOS 16	81
+Business	18–24	Other	82
+Government	25–34	iOS 17	83
+Education	55+	iOS 17	84
+Government	55+	iOS 17	85
+Individual	45–54	New User	86
+Business	18–24	iOS 15	87
+Individual	25–34	New User	88
+Business	55+	iOS 17	89
+Education	25–34	iOS 15	90
+Education	45–54	Android	91
+Government	35–44	iOS 17	92
+Individual	18–24	iOS 16	93
+Business	18–24	iOS 17	94
+Government	55+	Android	95
+Individual	35–44	Android	96
+Business	25–34	Android	97
+Individual	18–24	Android	98
+Business	55+	iOS 16	99
+Education	45–54	New User	100
+Education	45–54	iOS 16	101
+Education	35–44	Android	102
+Government	45–54	iOS 17	103
+Individual	35–44	Other	104
+Government	55+	New User	105
+Government	25–34	New User	106
+Business	55+	iOS 15	107
+Education	18–24	Other	108
+Business	35–44	iOS 17	109
+Individual	55+	New User	110
+Individual	45–54	iOS 17	111
+Individual	25–34	Other	112
+Individual	35–44	iOS 16	113
+Business	55+	Android	114
+Education	35–44	Other	115
+Business	35–44	Other	116
+Individual	18–24	iOS 17	117
+Government	45–54	iOS 15	118
+Individual	45–54	iOS 15	119
+Government	55+	iOS 16	120
+Education	55+	New User	121
+Education	18–24	iOS 17	122
+Business	18–24	Android	123
+Individual	18–24	Other	124
+Business	25–34	iOS 17	125
+Education	45–54	iOS 17	126
+Individual	25–34	iOS 15	127
+Individual	25–34	Android	128
+Individual	45–54	Other	129
+Government	35–44	iOS 16	130
+Business	18–24	New User	131
+Education	55+	Other	132
+Business	45–54	Android	133
+Individual	45–54	Android	134
+Business	45–54	iOS 17	135
+Business	35–44	New User	136
+Government	55+	iOS 15	137
+Government	25–34	iOS 15	138
+Education	25–34	Other	139
+Government	18–24	iOS 17	140
