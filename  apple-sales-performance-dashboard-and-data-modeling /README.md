@@ -1,4 +1,16 @@
-# Apple Sales Performance Dashboard & Data Modeling 
+# Apple Sales Performance Dashboard & Data Modeling
+
+## 📊 Data Source & Licensing
+
+The dataset used in this project is sourced from **Kaggle**:
+
+* **Dataset Name:** [Apple Global Product Sales Dataset 🍎]
+* **Original Source:** [https://www.kaggle.com/datasets/ashyou09/apple-global-product-sales-dataset]
+* **License:** MIT License
+* **Copyright:** [2026] [Ashutosh Singh ]
+
+> **Note:** This project complies with the MIT License by including the copyright notice 
+> and permission notice in all copies or substantial portions of the dataset.
 
 To ensure full transparency and professional ethics, the following disclaimer is hardcoded into the header of the data file (CSV) used in this project:
 
