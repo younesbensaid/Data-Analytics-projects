@@ -3,6 +3,8 @@
 ## Data Source: 
 The original dataset in Power BI dashboard for Large-Scale Dataset Analysis 250K Job Records/original_dataset folder was obtained from Kaggle and is licensed under CC0: Public Domain.
 
+![alt text](<Power BI dashboard for Large-Scale Dataset Analysis 250K Job Records.gif>)
+
 ## Project Overview
 
 **Power BI dashboard for Large-Scale Dataset Analysis 250K Job Records**
