@@ -9,7 +9,7 @@ The original dataset in Power BI dashboard for Large-Scale Dataset Analysis 250K
 
 - Initial Analysis (Python/Pandas):
 I previously analyzed this data using Python (Pandas), and during this exploratory phase, I concluded that the dataset did not appear realistic (most likely artificial).
-You can find the analysis in Power BI dashboard for Large-Scale Dataset Analysis 250K Job Records/python_analysis/large_scale_dataset_analysis.pdf
+You can find the analysis in Power BI dashboard for Large-Scale Dataset Analysis 250K Job Records/python_analysis/large-scale-dataset-analysis-250k-job-records.ipynb
 
 - Data Ingestion and Analysis (Power Query):
 I imported the data into Power Query within Power BI. During this phase, I carefully monitored the data quality, verified its types, and reviewed various naming conventions and text entries.
@@ -50,6 +50,11 @@ Power BI dashboard for Large-Scale Dataset Analysis 250K Job Records/
 ├── pdf/
 
     Power BI dashboard for Large-Scale Dataset Analysis 250K Job Records
+
+├── python_analysis/
+
+    large-scale-dataset-analysis-250k-job-records.ipynb
+
 
 ├── LICENSE # Project license
 
